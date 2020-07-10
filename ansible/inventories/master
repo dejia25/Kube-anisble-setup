@@ -1,0 +1,3 @@
+[kube-master]
+
+a-tag-k8s-master-0 ansible_ssh_host=34.229.70.123

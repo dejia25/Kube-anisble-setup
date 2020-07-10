@@ -1,0 +1,8 @@
+
+[kube-node]
+a-tag-k8s-node-0 ansible_ssh_host=100.26.222.202
+a-tag-k8s-node-1 ansible_ssh_host=52.3.242.223
+
+[kube-node]
+a-tag-k8s-node-0 ansible_ssh_host=35.168.8.183
+a-tag-k8s-node-1 ansible_ssh_host=100.26.230.102
